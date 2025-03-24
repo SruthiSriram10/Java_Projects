@@ -1,7 +1,7 @@
 STUDENT_MANAGEMENT_SYSTEM:
-*The Student Management System is a Java-based program that allows users to manage student details efficiently. 
-*The system uses HashMap and TreeMap for storing, sorting, updating, removing, and searching student information. 
-*The application is interactive and provides a console-based interface for users.
+The Student Management System is a Java-based program that allows users to manage student details efficiently. 
+The system uses HashMap and TreeMap for storing, sorting, updating, removing, and searching student information. 
+The application is interactive and provides a console-based interface for users.
 
 Features:
 1. Add Student Details 
